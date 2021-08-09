@@ -4,6 +4,11 @@ Lynn<qnswwrn@gmail.com> //작성자
 :toc: left //왼쪽 테이블
 :sectnums:
 
+//http://localhost:8080/docs/index.html
+//@ todo 이 문서의 접속 주소
+// 이게 이상한게, 그냥 인텔리제이에서 돌리면 안된다 >> run cofigration을 인텔리제이가 아니라 그레이들로 돌리도록 해야 됨
+// 아니면 그냥 그레이들 빌드한다음에 자르파일을 실행시켜야함
+
 //이렇게 하면 표를 만들 수 있다.
 |===
 | Method | Content

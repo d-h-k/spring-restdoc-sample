@@ -1,0 +1,44 @@
+
+###
+POST http://localhost:8080/api/post
+Content-Type: application/json
+
+{"id":3,"name":"Kim","age":11}
+
+
+
+###
+POST http://localhost:8080/api/post
+Content-Type: application/json
+
+{"id":4,"name":"Lee","age":22}
+
+
+###
+POST http://localhost:8080/api/post
+Content-Type: application/json
+
+{"id":5,"name":"Park","age":33}
+
+
+###
+POST http://localhost:8080/api/post
+Content-Type: application/json
+
+{
+"id":6,
+"name":"Son",
+"age":44
+}
+
+
+###
+GET http://localhost:8080/api/3
+
+
+
+
+###
+GET http://localhost:8080/api
+
+
